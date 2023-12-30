@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+header,
+h2 {
+    margin: 2rem 0 0 0;
+}
+
+p,
+button {
+    font-family: sans-serif;
+    margin: 1rem 0.5rem 1rem 0.5rem;
+}
+
+button {
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 100px;
+}
+
+.dark {
+    background-color: #030308;
+    color: #fff;
+}
+
+.blue {
+    background-color: #43abf6;
+    color: #fff;
+}
+
+footer {
+    background-color: #030308;
+    color: #fff;
+    padding: 0.5rem;
+    margin: 3rem 0 0 0;
+}
