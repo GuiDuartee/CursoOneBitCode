@@ -25,8 +25,8 @@ Link para o diretório de [Fundamentos do CSS](https://github.com/GuiDuartee/Cur
 ### Conceitos aprendidos neste módulo:
 - O que é e como usar o CSS;
 - Cores, Background, bordas..;
-- Posicionamento com display, margem, preenchimento..;
+- Posicionamento com display, margem..;
 - Seletores e especificidade;
-- Tipografia (fontes, textosm pesos, famílias..);
+- Tipografia (fontes, textos, pesos, famílias..);
 - Principais unidades de medida (px, rem, em, deg, vw, vh, %..);
 - Como construir sites completos usando o CSS.
