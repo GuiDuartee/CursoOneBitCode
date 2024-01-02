@@ -14,10 +14,19 @@ Link para o diretório de [Fundamentos do HTML](https://github.com/GuiDuartee/Cu
 - Formulários e seus componentes;
 - Recursos do HTML 5;
 - Semântica e acessibilidade;
-- Boas práticas e otimizações;
+- Boas práticas e otimizações.
 
 ## 2. Fundamentos do CSS
 ### Por que estudar os fundamentos do CSS?
 Estudar e praticar os fundamentos do CSS (Cascading Style Sheet) é importante para trabalhar a estilização, visando a estilização, experiência do usuário e também a sua acessibilidade.
 
 Link para o diretório de [Fundamentos do CSS](https://github.com/GuiDuartee/CursoOneBitCode/tree/main/fundamentos-do-css)
+
+### Conceitos aprendidos neste módulo:
+- O que é e como usar o CSS;
+- Cores, Background, bordas..;
+- Posicionamento com display, margem..;
+- Seletores e especificidade;
+- Tipografia (fontes, textos, pesos, famílias..);
+- Principais unidades de medida (px, rem, em, deg, vw, vh, %..);
+- Como construir sites completos usando o CSS.
